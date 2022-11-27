@@ -1,4 +1,6 @@
-# Developing a Neural Network Regression Model
+## EX.NO:01
+## DATE:29.08.2022
+# <p align="center">Developing a Neural Network Regression Model
 
 ## AIM
 
@@ -48,6 +50,8 @@ Evaluate the model with the testing data.
 
 ## PROGRAM
 ```python3
+Developed By: PrasannaKumar M
+Register No: 212220230035
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import MinMaxScaler
